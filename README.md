@@ -36,7 +36,7 @@
   <a href="https://twitter.com/irss350">
   <img src="https://github.com/Rushanksavant/Rushanksavant/blob/main/imgs/twitter-fill.svg" />
     </a>
-  <a href="discordapp.com/users/Rushank Savant#5944">
+  <a href="Rushank#5944">
   <img src="https://github.com/Rushanksavant/Rushanksavant/blob/main/imgs/discord-fill.svg" />
     </a>
   <a href="rssavant34@gmail.com">
