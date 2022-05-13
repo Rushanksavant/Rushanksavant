@@ -28,6 +28,24 @@
  </div>
  <br>
  - 📫 How to reach me: 
+ <div>
+&nbsp &nbsp &nbsp 
+  <a href="https://www.linkedin.com/in/rushank-savant/">
+  <img src="https://github.com/Rushanksavant/Rushanksavant/blob/main/imgs/linkedin-box-fill.svg" /> 
+  </a>
+  <a href="https://twitter.com/irss350">
+  <img src="https://github.com/Rushanksavant/Rushanksavant/blob/main/imgs/twitter-fill.svg" />
+    </a>
+  <a href="discordapp.com/users/Rushank Savant#5944">
+  <img src="https://github.com/Rushanksavant/Rushanksavant/blob/main/imgs/discord-fill.svg" />
+    </a>
+  <a href="rssavant34@gmail.com">
+  <img src="https://github.com/Rushanksavant/Rushanksavant/blob/main/imgs/mail-fill.svg" />
+    </a>
+  <a href="https://t.co/edEUIFCtKD">
+  <img src="https://github.com/Rushanksavant/Rushanksavant/blob/main/imgs/external-link-line.svg" />
+    </a>
+ </div>
  
 <!--
 **Rushanksavant/Rushanksavant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
