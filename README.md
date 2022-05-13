@@ -4,7 +4,7 @@
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/> Hi there , I am <a href="https://rushank-eth.netlify.app/">Rushank</a> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EC4899&multiline=true&height=80&lines=I'm+a+Data+Scientist+turned+;Web3.0+developer.;I+love+to+code+smart+contracts.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=EC4899&multiline=true&height=80&lines=I'm+a+Data+Scientist+turned;Web3.0+developer.;I+love+to+code+smart+contracts.)](https://git.io/typing-svg)
 
 ### Specializing in building Solidity smart contracts, testing them using Chai, Mocha, and integrating them to a frontend using EthersJS.
 
@@ -46,6 +46,13 @@
   <img src="https://github.com/Rushanksavant/Rushanksavant/blob/main/imgs/external-link-line.svg" />
     </a>
  </div>
+ 
+
+ <div align="right">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=EC4899&width=350&lines=I+spend+no+day+not+learning++!!)](https://git.io/typing-svg) <img src="https://github.com/Rushanksavant/Rushanksavant/blob/main/imgs/catTyping.gif" width="250"/>
+  
+  </div>
  
 <!--
 **Rushanksavant/Rushanksavant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
