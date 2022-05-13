@@ -8,7 +8,7 @@
 
 ### Specializing in building Solidity smart contracts, testing them using Chai, Mocha, and integrating them to a frontend using EthersJS.
 
-- 🔭 I’m work on building exciting dapps
+- 🔭 I’m working on building exciting dapps
 - 🌱 I’m currently learning solidity smart contract security vulerabilities and gas optimization
 - 👯 I’m looking to collaborate on projects and hackathons
 - 💬 Ask me about:
